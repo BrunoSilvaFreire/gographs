@@ -1,0 +1,10 @@
+# Workspaces
+go.work
+go.work.sum
+
+# IDEs
+.idea/
+.vscode/
+
+# System
+.DS_Store
