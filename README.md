@@ -22,5 +22,5 @@ go get github.com/BrunoSilvaFreire/gographs
 import "github.com/BrunoSilvaFreire/gographs/pkg"
 import "github.com/BrunoSilvaFreire/gographs/pkg/algorithms"
 
-// ...
+// All algorithms are type-generic and work with any graph implementing the pkg.Graph interface.
 ```
