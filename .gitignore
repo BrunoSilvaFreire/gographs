@@ -6,5 +6,8 @@ go.work.sum
 .idea/
 .vscode/
 
+# Embedded
+grapphs/
+
 # System
 .DS_Store
